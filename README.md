@@ -5,7 +5,7 @@ All credits to the developers of MiBench.
 Read more in: https://vhosts.eecs.umich.edu/mibench/
 
 How to use these examples:
-- Download the MiBench automotive benchmark form the official website;
+<b>- Download the MiBench automotive benchmark form the official website;
 - Place these files in the \basicmath folder;
 - Compile and create the .hex files for the microcontroller (atmega328p, atmega2560, pic16f887);
 - Upload the .hex file to the microcontroller.
